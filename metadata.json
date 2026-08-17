@@ -1,0 +1,6 @@
+{
+  "name": "Ummah",
+  "description": "Aplicativo islâmico com Horários de Oração (Salat) e Adhan personalizável com alarme, Tasbih Digital com feedback tátil de vibração, Alcorão Sagrado em MP3 (Surahs e Juz), Calendário Hijri Sagrado com dias importantes e suporte completo para temas White Mode e Dark Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
